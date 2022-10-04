@@ -1,0 +1,167 @@
+Caption,Name,Description,DeviceID
+PCI-контроллер Simple Communications,PCI-контроллер Simple Communications,PCI-контроллер Simple Communications,PCI\VEN_8086&DEV_A2BA&SUBSYS_310617AA&REV_00\3&11583659&0&B0
+Realtek High Definition Audio,Realtek High Definition Audio,Realtek High Definition Audio,HDAUDIO\FUNC_01&VEN_10EC&DEV_0662&SUBSYS_17AA3106&REV_1003\4&FED8E37&0&0001
+Ресурсы системной платы,Ресурсы системной платы,Ресурсы системной платы,ACPI\PNP0C02\0
+Ресурсы системной платы,Ресурсы системной платы,Ресурсы системной платы,ACPI\PNP0C02\1
+Ресурсы системной платы,Ресурсы системной платы,Ресурсы системной платы,ACPI\PNP0C02\2
+Ресурсы системной платы,Ресурсы системной платы,Ресурсы системной платы,ACPI\PNP0C02\5
+USB-устройство ввода,USB-устройство ввода,USB-устройство ввода,USB\VID_046D&PID_C31C&MI_00\6&333B0B1C&0&0000
+Intel(R) Graphics Control Panel,Intel(R) Graphics Control Panel,Intel(R) Graphics Control Panel,SWD\DRIVERENUM\CUI&4&387566AF&0
+Агрегатор процессора ACPI,Агрегатор процессора ACPI,Агрегатор процессора ACPI,ACPI\ACPI000C\2&DABA3FF&0
+Intel(R) HD Graphics 530,Intel(R) HD Graphics 530,Intel(R) HD Graphics 530,PCI\VEN_8086&DEV_1912&SUBSYS_310617AA&REV_06\3&11583659&0&10
+Корневая очередь печати,Корневая очередь печати,Локальная очередь печати,SWD\PRINTENUM\PRINTQUEUES
+HID-совместимое устройство управления,HID-совместимое устройство управления,HID-совместимое устройство управления,HID\VID_046D&PID_C31C&MI_01&COL01\7&32D6861D&0&0000
+HID-совместимая мышь,HID-совместимая мышь,HID-совместимая мышь,HID\VID_046D&PID_C077\6&307D9432&0&0000
+Диспетчер томов,Диспетчер томов,Диспетчер томов,ROOT\VOLMGR\0000
+Том,Том,Том,STORAGE\VOLUME\{AC3B28DC-7CF6-11EC-808C-806E6F6E6963}#0000000003300000
+Realtek(R) Audio,Realtek(R) Audio,Realtek High Definition Audio,HDAUDIO\FUNC_01&VEN_10EC&DEV_0662&SUBSYS_17AA3106&REV_1003\4&FED8E37&0&0001
+WAN Miniport (PPPOE),WAN Miniport (PPPOE),Мини-порт глобальной сети (PPPOE),SWD\MSRRAS\MS_PPPOEMINIPORT
+Составное USB устройство,Составное USB устройство,Составное USB устройство,USB\VID_046D&PID_C31C\5&399DE990&0&7
+Microsoft Print to PDF,Microsoft Print to PDF,Локальная очередь печати,SWD\PRINTENUM\{AFA4954A-5827-4F1E-B91C-9B7C6807594B}
+Базовый видеодрайвер (Майкрософт),Базовый видеодрайвер (Майкрософт),Базовый видеодрайвер (Майкрософт),ROOT\BASICDISPLAY\0000
+None,None,None,ACPI\LEN4001\2&DABA3FF&0
+Кнопка спящего режима ACPI,Кнопка спящего режима ACPI,Кнопка спящего режима ACPI,ACPI\PNP0C0E\2&DABA3FF&0
+Корневой USB-концентратор (USB 3.0),Корневой USB-концентратор (USB 3.0),Корневой USB-концентратор (USB 3.0),USB\ROOT_HUB30\4&254307A1&0&0
+Аудио Intel(R) для дисплеев,Аудио Intel(R) для дисплеев,Аудио Intel(R) для дисплеев,HDAUDIO\FUNC_01&VEN_8086&DEV_2809&SUBSYS_80860101&REV_1000\4&FED8E37&0&0201
+Ресурсы системной платы,Ресурсы системной платы,Ресурсы системной платы,ACPI\PNP0C02\LPC_DEV
+Microsoft RRAS Root Enumerator,Microsoft RRAS Root Enumerator,Универсальное программное устройство,SWD\MSRRAS\{5E259276-BC7E-40E3-B93B-8F89B5F3ABC0}
+Realtek Hardware Support Application,Realtek Hardware Support Application,Realtek Hardware Support Application,SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKHSA&5&23A0EA80&0
+Интерфейс управления для ACPI Microsoft Windows,Интерфейс управления для ACPI Microsoft Windows,Интерфейс управления для ACPI Microsoft Windows,ACPI\PNP0C14\1
+WAN Miniport (PPTP),WAN Miniport (PPTP),Мини-порт глобальной сети (PPTP),SWD\MSRRAS\MS_PPTPMINIPORT
+USB-устройство ввода,USB-устройство ввода,USB-устройство ввода,USB\VID_046D&PID_C31C&MI_01\6&333B0B1C&0&0001
+Драйвер инфраструктуры виртуализации Microsoft Hyper-V,Драйвер инфраструктуры виртуализации Microsoft Hyper-V,Драйвер инфраструктуры виртуализации Microsoft Hyper-V,ROOT\VID\0000
+Высокоточный таймер событий,Высокоточный таймер событий,Высокоточный таймер событий,ACPI\PNP0103\0
+WAN Miniport (IKEv2),WAN Miniport (IKEv2),Мини-порт глобальной сети (IKEv2),SWD\MSRRAS\MS_AGILEVPNMINIPORT
+Перечислитель композитной шины,Перечислитель композитной шины,Перечислитель композитной шины,ROOT\COMPOSITEBUS\0000
+Перечислитель виртуальных дисков (Майкрософт),Перечислитель виртуальных дисков (Майкрософт),Перечислитель виртуальных дисков (Майкрософт),ROOT\VDRVROOT\0000
+Контроллер дискового пространства (Майкрософт),Контроллер дискового пространства (Майкрософт),Контроллер дискового пространства (Майкрософт),ROOT\SPACEPORT\0000
+HID-совместимый системный контроллер,HID-совместимый системный контроллер,HID-совместимый системный контроллер,HID\VID_046D&PID_C31C&MI_01&COL02\7&32D6861D&0&0001
+Том,Том,Том,STORAGE\VOLUME\{BEE8A1CB-A099-11EC-8092-806E6F6E6963}#0000003B7DC00000
+Последовательный порт (COM1),Последовательный порт (COM1),Последовательный порт,ACPI\PNP0501\0
+Microsoft Kernel Debug Network Adapter,Microsoft Kernel Debug Network Adapter,Сетевой адаптер с отладкой ядра (Майкрософт),ROOT\KDNIC\0000
+Универсальная теневая копия тома,Универсальная теневая копия тома,Универсальная теневая копия тома,STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT1
+Универсальная теневая копия тома,Универсальная теневая копия тома,Универсальная теневая копия тома,STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT2
+Универсальная теневая копия тома,Универсальная теневая копия тома,Универсальная теневая копия тома,STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT3
+Ресурсы системной платы,Ресурсы системной платы,Ресурсы системной платы,ACPI\PNP0C02\PCHRESV
+Realtek Audio Universal Service,Realtek Audio Universal Service,Realtek Audio Universal Service,SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKSRV&5&23A0EA80&0
+CMOS системы и часы реального времени,CMOS системы и часы реального времени,CMOS системы и часы реального времени,ACPI\PNP0B00\4&1B7E36F9&0
+USB-устройство ввода,USB-устройство ввода,USB-устройство ввода,USB\VID_046D&PID_C077\5&399DE990&0&2
+Программируемый контроллер прерываний,Программируемый контроллер прерываний,Программируемый контроллер прерываний,ACPI\PNP0000\4&1B7E36F9&0
+Intel(R) 300 Series Chipset Family SATA AHCI Controller,Intel(R) 300 Series Chipset Family SATA AHCI Controller,Intel(R) 300 Series Chipset Family SATA AHCI Controller,PCI\VEN_8086&DEV_A282&SUBSYS_310617AA&REV_00\3&11583659&0&B8
+Динамики (Realtek(R) Audio),Динамики (Realtek(R) Audio),Конечная точка Audio,SWD\MMDEVAPI\{0.0.0.00000000}.{357EA8AB-7DAE-420C-A33C-F42ACD46D5F9}
+Fax,Fax,Локальная очередь печати,SWD\PRINTENUM\{62CD0688-615E-418D-8B36-D5F9239B4079}
+Том,Том,Том,STORAGE\VOLUME\{AC3B28DC-7CF6-11EC-808C-806E6F6E6963}#0000000000100000
+UMBus перечислитель корневой шины,UMBus перечислитель корневой шины,UMBus перечислитель корневой шины,ROOT\UMBUS\0000
+Универсальный монитор PnP,Универсальный монитор PnP,Универсальный монитор PnP,DISPLAY\ITE6516\4&387566AF&0&UID200195
+Microsoft Radio Device Enumeration Bus,Microsoft Radio Device Enumeration Bus,Универсальное программное устройство,SWD\RADIO\{3DB5895D-CC28-44B3-AD3D-6F01A782B8D2}
+Ресурсы системной платы,Ресурсы системной платы,Ресурсы системной платы,ACPI\INT3F0D\4&1B7E36F9&0
+Microsoft Device Association Root Enumerator,Microsoft Device Association Root Enumerator,Универсальное программное устройство,SWD\MSDAS\{CE958E9A-424F-4C88-86F4-11314821E75A}
+Компьютер с ACPI на базе x64,Компьютер с ACPI на базе x64,Компьютер с ACPI на базе x64,ROOT\ACPI_HAL\0000
+HID-совместимое устройство управления,HID-совместимое устройство управления,HID-совместимое устройство управления,HID\VID_046D&PID_C31C&MI_01&COL03\7&32D6861D&0&0002
+Стандартный мост PCI — ISA,Стандартный мост PCI — ISA,Стандартный мост PCI — ISA,PCI\VEN_8086&DEV_A2C6&SUBSYS_310617AA&REV_00\3&11583659&0&F8
+Аудио Intel(R) для дисплеев,Аудио Intel(R) для дисплеев,Аудио Intel(R) для дисплеев,HDAUDIO\FUNC_01&VEN_8086&DEV_2809&SUBSYS_80860101&REV_1000\4&FED8E37&0&0201
+Intel(R) 300 Series Chipset Family SATA AHCI Controller,Intel(R) 300 Series Chipset Family SATA AHCI Controller,Intel(R) 300 Series Chipset Family SATA AHCI Controller,PCI\VEN_8086&DEV_A282&SUBSYS_310617AA&REV_00\3&11583659&0&B8
+WAN Miniport (Network Monitor),WAN Miniport (Network Monitor),Мини-порт глобальной сети (Сетевой монитор),SWD\MSRRAS\MS_NDISWANBH
+WAN Miniport (IP),WAN Miniport (IP),Мини-порт глобальной сети (IP),SWD\MSRRAS\MS_NDISWANIP
+PCI Express Root Complex,PCI Express Root Complex,PCI Express Root Complex,ACPI\PNP0A08\0
+PCI-контроллер памяти,PCI-контроллер памяти,PCI-контроллер памяти,PCI\VEN_8086&DEV_A2A1&SUBSYS_310617AA&REV_00\3&11583659&0&FA
+SUPERSONIC256,SUPERSONIC256,Дисковый накопитель,SCSI\DISK&VEN_SUPERSON&PROD_IC256\4&D72261&0&000200
+Intel(R) Ethernet Connection (2) I219-LM,Intel(R) Ethernet Connection (2) I219-LM,Intel(R) Ethernet Connection (2) I219-LM,PCI\VEN_8086&DEV_15B7&SUBSYS_310617AA&REV_00\3&11583659&0&FE
+WDC WD5000AZLX-08K2TA0,WDC WD5000AZLX-08K2TA0,Дисковый накопитель,SCSI\DISK&VEN_WDC&PROD_WD5000AZLX-08K2T\4&D72261&0&000000
+Кнопка питания ACPI,Кнопка питания ACPI,Кнопка питания ACPI,ACPI\PNP0C0C\2&DABA3FF&0
+Microsoft ACPI-совместимая система,Microsoft ACPI-совместимая система,Microsoft ACPI-совместимая система,ACPI_HAL\PNP0C08\0
+None,None,None,HTREE\ROOT\0
+Базовый драйвер отрисовки (Майкрософт),Базовый драйвер отрисовки (Майкрософт),Базовый драйвер отрисовки (Майкрософт),ROOT\BASICRENDER\0000
+Доверенный платформенный модуль 1.2,Доверенный платформенный модуль 1.2,Доверенный платформенный модуль 1.2,ACPI\PNP0C31\1
+WAN Miniport (SSTP),WAN Miniport (SSTP),Мини-порт глобальной сети (SSTP),SWD\MSRRAS\MS_SSTPMINIPORT
+Том,Том,Том,STORAGE\VOLUME\{BEE8A1CB-A099-11EC-8092-806E6F6E6963}#0000000000100000
+Фиксированная функциональная кнопка ACPI,Фиксированная функциональная кнопка ACPI,Фиксированная функциональная кнопка ACPI,ACPI\FIXEDBUTTON\2&DABA3FF&0
+Realtek Audio Effects Component,Realtek Audio Effects Component,Realtek Audio Effects Component,SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKAPO&5&23A0EA80&0
+Подключаемый модуль управления питанием Intel(R),Подключаемый модуль управления питанием Intel(R),Подключаемый модуль управления питанием Intel(R),ACPI\INT33A1\1
+Ресурсы системной платы,Ресурсы системной платы,Ресурсы системной платы,ACPI\PNP0C02\IOTRAPS
+Арифметический сопроцессор,Арифметический сопроцессор,Арифметический сопроцессор,ACPI\PNP0C04\4&1B7E36F9&0
+Расширяемый хост-контроллер Intel(R) USB 3.0 — 1.0 (Майкрософт),Расширяемый хост-контроллер Intel(R) USB 3.0 — 1.0 (Майкрософт),xHCI-совместимый хост-контроллер USB,PCI\VEN_8086&DEV_A2AF&SUBSYS_310617AA&REV_00\3&11583659&0&A0
+Программный синтезатор звуковой таблицы Microsoft,Программный синтезатор звуковой таблицы Microsoft,Универсальное программное устройство,SWD\MMDEVAPI\MICROSOFTGSWAVETABLESYNTH
+SM контроллер шины,SM контроллер шины,SM контроллер шины,PCI\VEN_8086&DEV_A2A3&SUBSYS_310617AA&REV_00\3&11583659&0&FC
+Intel(R) Graphics Command Center,Intel(R) Graphics Command Center,Intel(R) Graphics Command Center,SWD\DRIVERENUM\IGCC&4&387566AF&0
+Клавиатура HID,Клавиатура HID,Клавиатура HID,HID\VID_046D&PID_C31C&MI_00\7&EFF485B&0&0000
+Перечислитель виртуальных сетевых адаптеров NDIS,Перечислитель виртуальных сетевых адаптеров NDIS,Перечислитель виртуальных сетевых адаптеров NDIS,ROOT\NDISVIRTUALBUS\0000
+Устаревшее устройство,Устаревшее устройство,Устаревшее устройство,ACPI\INT0800\4&1B7E36F9&0
+Microsoft XPS Document Writer,Microsoft XPS Document Writer,Локальная очередь печати,SWD\PRINTENUM\{5E564C1F-EA4D-462C-AE1E-FF05A4187E62}
+Последовательный порт PCI,Последовательный порт PCI,Последовательный порт PCI,PCI\VEN_8086&DEV_A2BD&SUBSYS_310617AA&REV_00\3&11583659&0&B3
+Драйвер Microsoft System Management BIOS,Драйвер Microsoft System Management BIOS,Драйвер Microsoft System Management BIOS,ROOT\MSSMBIOS\0000
+Ресурсы системной платы,Ресурсы системной платы,Ресурсы системной платы,ACPI\INT340E\2&DABA3FF&0
+Интерфейс управления для ACPI Microsoft Windows,Интерфейс управления для ACPI Microsoft Windows,Интерфейс управления для ACPI Microsoft Windows,ACPI\PNP0C14\TBFP
+PCI контроллер извлечения данных и обработки сигнала,PCI контроллер извлечения данных и обработки сигнала,PCI контроллер извлечения данных и обработки сигнала,PCI\VEN_8086&DEV_A2B1&SUBSYS_310617AA&REV_00\3&11583659&0&A2
+HL-DT-ST DVDRAM GUE0N,HL-DT-ST DVDRAM GUE0N,CD-ROM дисковод,SCSI\CDROM&VEN_HL-DT-ST&PROD_DVDRAM_GUE0N\4&D72261&0&000100
+Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,Intel процессор,ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_94_-_INTEL(R)_CORE(TM)_I5-6500_CPU_@_3.20GHZ\_1
+Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,Intel процессор,ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_94_-_INTEL(R)_CORE(TM)_I5-6500_CPU_@_3.20GHZ\_2
+Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,Intel процессор,ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_94_-_INTEL(R)_CORE(TM)_I5-6500_CPU_@_3.20GHZ\_3
+Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,Intel процессор,ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_94_-_INTEL(R)_CORE(TM)_I5-6500_CPU_@_3.20GHZ\_4
+Перечислитель программных устройств Plug and Play,Перечислитель программных устройств Plug and Play,Перечислитель программных устройств Plug and Play,ROOT\SYSTEM\0000
+Контроллер High Definition Audio (Microsoft),Контроллер High Definition Audio (Microsoft),Контроллер High Definition Audio (Microsoft),PCI\VEN_8086&DEV_A2F0&SUBSYS_310617AA&REV_00\3&11583659&0&FB
+Шина перенаправителя устройств удаленных рабочих столов,Шина перенаправителя устройств удаленных рабочих столов,Шина перенаправителя устройств удаленных рабочих столов,ROOT\RDPBUS\0000
+WAN Miniport (IPv6),WAN Miniport (IPv6),Мини-порт глобальной сети (IPv6),SWD\MSRRAS\MS_NDISWANIPV6
+Системный таймер,Системный таймер,Системный таймер,ACPI\PNP0100\4&1B7E36F9&0
+Стандартный главный мост PCI — ЦП,Стандартный главный мост PCI — ЦП,Стандартный главный мост PCI — ЦП,PCI\VEN_8086&DEV_191F&SUBSYS_310617AA&REV_07\3&11583659&0&00
+OneNote for Windows 10,OneNote for Windows 10,Локальная очередь печати,SWD\PRINTENUM\{85B2EA16-F875-4FFF-B8CF-4F823102946C}
+WAN Miniport (L2TP),WAN Miniport (L2TP),Мини-порт глобальной сети (L2TP),SWD\MSRRAS\MS_L2TPMINIPORT
+Материнская плата,Материнская плата,Материнская плата,Motherboard
+Intel64 Family 6 Model 94 Stepping 3,Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,Intel64 Family 6 Model 94 Stepping 3,CPU0
+HL-DT-ST DVDRAM GUE0N,HL-DT-ST DVDRAM GUE0N,CD-ROM дисковод,SCSI\CDROM&VEN_HL-DT-ST&PROD_DVDRAM_GUE0N\4&D72261&0&000100
+WDC WD5000AZLX-08K2TA0,\\.\PHYSICALDRIVE0,Дисковый накопитель,\\.\PHYSICALDRIVE0
+SUPERSONIC256,\\.\PHYSICALDRIVE1,Дисковый накопитель,\\.\PHYSICALDRIVE1
+Диск #0, раздел #0,Диск #0, раздел #0,Устанавливаемая файловая система,Disk #0, Partition #0
+Диск #0, раздел #1,Диск #0, раздел #1,Устанавливаемая файловая система,Disk #0, Partition #1
+Диск #1, раздел #0,Диск #1, раздел #0,Устанавливаемая файловая система,Disk #1, Partition #0
+Диск #1, раздел #1,Диск #1, раздел #1,Unknown,Disk #1, Partition #1
+Устройство охлаждения,Устройство охлаждения,Устройство охлаждения,root\cimv2 0
+Устройство охлаждения,Устройство охлаждения,Устройство охлаждения,root\cimv2 1
+Устройство охлаждения,Устройство охлаждения,Устройство охлаждения,root\cimv2 2
+Расширенная клавиатура (101 или 102 клавиши),Расширенная клавиатура (101 или 102 клавиши),USB-устройство ввода,USB\VID_046D&PID_C31C&MI_00\6&333B0B1C&0&0000
+C:,C:,Локальный несъемный диск,C:
+D:,D:,Компакт-диск,D:
+E:,E:,Локальный несъемный диск,E:
+OneNote for Windows 10,OneNote for Windows 10,None,OneNote for Windows 10
+Microsoft XPS Document Writer,Microsoft XPS Document Writer,None,Microsoft XPS Document Writer
+Microsoft Print to PDF,Microsoft Print to PDF,None,Microsoft Print to PDF
+Fax,Fax,None,Fax
+Массив памяти,Массив памяти,Массив памяти,Memory Array 0
+Устройство памяти,Устройство памяти,Устройство памяти,Memory Device 0
+Шина,Шина,Шина,PCI_BUS_0
+USB-устройство ввода,USB-устройство ввода,USB-устройство ввода,USB\VID_046D&PID_C077\5&399DE990&0&2
+Шина,Шина,Шина,ACPIBus_BUS_0
+Шина,Шина,Шина,PNP_BUS_0
+Шина,Шина,Шина,PNP_BUS_2
+Шина,Шина,Шина,PNP_BUS_1
+[00000000] Microsoft Kernel Debug Network Adapter,Microsoft Kernel Debug Network Adapter,Microsoft Kernel Debug Network Adapter,0
+Контроллер дискового пространства (Майкрософт),Контроллер дискового пространства (Майкрософт),Контроллер дискового пространства (Майкрософт),ROOT\SPACEPORT\0000
+[00000001] Intel(R) Ethernet Connection (2) I219-LM,Intel(R) Ethernet Connection (2) I219-LM,Intel(R) Ethernet Connection (2) I219-LM,1
+[00000002] WAN Miniport (SSTP),WAN Miniport (SSTP),WAN Miniport (SSTP),2
+[00000003] WAN Miniport (IKEv2),WAN Miniport (IKEv2),WAN Miniport (IKEv2),3
+[00000004] WAN Miniport (L2TP),WAN Miniport (L2TP),WAN Miniport (L2TP),4
+[00000005] WAN Miniport (PPTP),WAN Miniport (PPTP),WAN Miniport (PPTP),5
+[00000006] WAN Miniport (PPPOE),WAN Miniport (PPPOE),WAN Miniport (PPPOE),6
+[00000007] WAN Miniport (IP),WAN Miniport (IP),WAN Miniport (IP),7
+[00000008] WAN Miniport (IPv6),WAN Miniport (IPv6),WAN Miniport (IPv6),8
+[00000009] WAN Miniport (Network Monitor),WAN Miniport (Network Monitor),WAN Miniport (Network Monitor),9
+Расширяемый хост-контроллер Intel(R) USB 3.0 — 1.0 (Майкрософт),Расширяемый хост-контроллер Intel(R) USB 3.0 — 1.0 (Майкрософт),xHCI-совместимый хост-контроллер USB,PCI\VEN_8086&DEV_A2AF&SUBSYS_310617AA&REV_00\3&11583659&0&A0
+Составное USB устройство,Составное USB устройство,Составное USB устройство,USB\VID_046D&PID_C31C\5&399DE990&0&7
+Корневой USB-концентратор (USB 3.0),Корневой USB-концентратор (USB 3.0),Корневой USB-концентратор (USB 3.0),USB\ROOT_HUB30\4&254307A1&0&0
+Кэш-память,Кэш-память,Кэш-память,Cache Memory 0
+Цифровой датчик,Цифровой датчик,ABC,root\cimv2 0
+Кэш-память,Кэш-память,Кэш-память,Cache Memory 1
+Кэш-память,Кэш-память,Кэш-память,Cache Memory 2
+Цифровой датчик,Цифровой датчик,ABC,root\cimv2 1
+Цифровой датчик,Цифровой датчик,LM78A,root\cimv2 0
+Цифровой датчик,Цифровой датчик,LM78A,root\cimv2 1
+Универсальный монитор PnP,Универсальный монитор PnP,Универсальный монитор PnP,DesktopMonitor1
+Цифровой датчик,Цифровой датчик,LM78A,root\cimv2 0
+Цифровой датчик,Цифровой датчик,LM78A,root\cimv2 1
+\\?\Volume{61852c8c-0000-0000-0000-100000000000}\,\\?\Volume{61852c8c-0000-0000-0000-100000000000}\,None,\\?\Volume{61852c8c-0000-0000-0000-100000000000}\
+C:\,C:\,None,\\?\Volume{c9b98598-0000-0000-0000-100000000000}\
+E:\,E:\,None,\\?\Volume{61852c8c-0000-0000-0000-300300000000}\
+\\?\Volume{c9b98598-0000-0000-0000-c07d3b000000}\,\\?\Volume{c9b98598-0000-0000-0000-c07d3b000000}\,None,\\?\Volume{c9b98598-0000-0000-0000-c07d3b000000}\
+D:\,D:\,None,\\?\Volume{bee8a28c-a099-11ec-8092-806e6f6e6963}\
+Intel(R) HD Graphics 530,Intel(R) HD Graphics 530,Intel(R) HD Graphics 530,VideoController1
+Последовательный порт (COM1),Последовательный порт (COM1),Последовательный порт,COM1
